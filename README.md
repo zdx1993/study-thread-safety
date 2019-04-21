@@ -64,7 +64,7 @@ public class MainApplication {
 
 执行当前分支的代码会得到如下提示
 
-![1555839517969](assets/1555839517969.png)
+![1555839517969](https://github.com/zdx1993/thread_safety.git/assets/1555839517969.png)
 
 为什么在控制台会打印如下的数据内容呢?
 
